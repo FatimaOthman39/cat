@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.category, .product {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.category {
+    background-color: #f9f9f9;
+}
+.product {
+    background-color: #fff;
+}
